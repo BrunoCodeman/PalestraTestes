@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD\bin\Debug\TesteTDD.exe.config
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD\bin\Debug\TesteTDD.exe
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD\bin\Debug\TesteTDD.pdb
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD\obj\Debug\TesteTDD.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD\obj\Debug\TesteTDD.exe
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD\obj\Debug\TesteTDD.pdb

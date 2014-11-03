@@ -1,0 +1,14 @@
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD.Tests\bin\Debug\TesteTDD.Tests.dll
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD.Tests\bin\Debug\TesteTDD.Tests.pdb
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD.Tests\bin\Debug\FizzWare.NBuilder.dll
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD.Tests\bin\Debug\Moq.dll
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD.Tests\bin\Debug\nunit.framework.dll
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD.Tests\bin\Debug\Moq.xml
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD.Tests\bin\Debug\nunit.framework.xml
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD.Tests\obj\Debug\TesteTDD.Tests.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD.Tests\obj\Debug\TesteTDD.Tests.dll
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD.Tests\obj\Debug\TesteTDD.Tests.pdb
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD.Tests\bin\Debug\TesteTDD.exe
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD.Tests\bin\Debug\TesteTDD.pdb
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD.Tests\bin\Debug\TesteTDD.Tests.dll.config
+\\psf\home\documents\visual studio 2013\Projects\TesteTDD\TesteTDD.Tests\bin\Debug\TechTalk.SpecFlow.dll
